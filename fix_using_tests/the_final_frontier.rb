@@ -25,5 +25,6 @@ end
 
 
 def engage
-  "Captain's Log, star date #{generate_star_date}."
+  p "Captain's Log, star date #{generate_star_date}."
+  
 end
